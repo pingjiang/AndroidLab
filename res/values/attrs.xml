@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PosterImageView">
+        <attr name="poster" format="reference|string" />
+        <attr name="title" format="reference|string" />
+        <attr name="subtitle" format="reference|string" />
+        <attr name="bg" format="reference|string" />
+        <attr name="fourk" format="boolean" />
+    </declare-styleable>
+
+</resources>

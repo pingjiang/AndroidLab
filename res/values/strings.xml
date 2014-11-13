@@ -5,4 +5,6 @@
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
 
+    <string name="poster_image_view_title">Poster Image View Title</string>
+    
 </resources>
